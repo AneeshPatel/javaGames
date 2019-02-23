@@ -1,2 +1,1 @@
-This is a simple Java chatbot game named MagPie.
-
+A collection of Java games.
